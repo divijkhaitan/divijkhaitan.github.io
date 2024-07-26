@@ -20,7 +20,7 @@ Instructor: Prof. Partha Pratim Das (IIT Kharagpur)
 ### Data Structures (Teaching Assistant)
 **CS-1205 (Ashoka University)** | _August 2023 - December 2023 (Monsoon 2023)_    
 Instructor: Subhamoy Maitra (ISI Kolkata)
-- Graded assignments and quizzes for a class of 160 students
+- Graded assignments and quizzes for a class of 40 students
 - Held weekly office hours to address student concerns
 - Assisted with the creation of assignments and exams
 
