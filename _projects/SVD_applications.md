@@ -30,9 +30,11 @@ $$A = U
 \end{bmatrix} 
 V^T$$
 
-The fact that the rank equals the number of diagonal entries can be used to find bases for important subspaces related to the matrix $$A$$. 
+The fact that the rank equals the number of diagonal entries can be used to find bases for important subspaces related to the matrix $$A$$. The first r columns of $$U$$ form a basis for the column space of $$A$$, and the last $$n - r$$ columns of $$V$$ are a basis for the null space of $$A$$. Similarly, the first r columns of $$V$$ are a basis for the column space of $$A^T$$ which is also the row space of $$A$$, and the last $$m -r$$ columns of $$U$$ form a basis for the null space of $$A^T$$, which is also the orthogonal complement of the row space $$\mathbb{R}(A)^\perp$$. 
 
 ## Application 1: LSI
+
+Latent Semantic Indexing is a technique for information retrival that can be used to search for documents that are similar to a querying phrase. 
 
 ## Application 2: Eigenfaces
 
