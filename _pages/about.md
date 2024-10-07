@@ -21,6 +21,8 @@ social: true # includes social icons at the bottom of the page
 
 Hello, I am Divij.
 
-I'm a Mathematics enjoyer from Mumbai, India. Currently, I am a student at Ashoka University studying Mathematics and Computer Science. I'm interested in problems that involve both of these. That list is currently optimization, machine learning on graphs and machine learning theory, particularly robustness in deep learning. 
+I am currently fourth-year student at Ashoka University studying Mathematics and Computer Science. My research interests are in the foundations of machine learning, particularly machine learning theory and optimisation geared towards an understanding of models that are explainable, robust and generalise well. 
 
-When not reading something on one of the above, you can find me reading manga, playing blitz games on [chess.com](https://www.chess.com/member/divij2003) or playing a board game
+I'm a research assistant at the [Centre for Decision, Learning and Data Sciences](https://www.ashoka.edu.in/page/centre-for-data-learning-and-decision-sciences-cdlds/), where I am working on a project on weather and climate modelling. I am also writing my undergraduate thesis on the robustness of deep neural networks, and building a library for randomised NLA algorithms in Rust.  
+
+When not reading something on one of the above, you can find me reading manga, playing blitz games on [chess.com](https://www.chess.com/member/divij2003) or playing a board game.
