@@ -2,10 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: An overview of my teaching activities thus far
 nav: true
 nav_order: 6
 ---
+
+### Linear Algebra and Matrix Analysis (Teaching Assistant)
+
+**CS-1104 (Ashoka University)** | _August 2024 - December 2024 (Monsoon 2024)_    
+Instructor: Prof. Rajendra Bhatia
+- Graded exams for a class of 15 students
+- Solved problems in weekly Discussion Sections
+- Held weekly office hours to address student concerns
+- Assisted with the administration of exams
+
+----
 
 ### Discrete Mathematics (Teaching Assistant)
 
@@ -15,6 +26,7 @@ Instructor: Prof. Partha Pratim Das (IIT Kharagpur)
 - Occasionally taught topics such as Graph Algorithms in Discussion Sections of 20 students
 - Held weekly office hours to address student concerns
 - Assisted with the creation of assignments and exams
+
 ----
 
 ### Data Structures (Teaching Assistant)
