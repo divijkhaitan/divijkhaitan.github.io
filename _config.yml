@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Divij
-middle_name: 
+middle_name:
 last_name: Khaitan
 email: divijkhaitan@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -462,7 +462,6 @@ vega-embed:
 vega-lite:
   version: "5.16.3"
   integrity: "sha256-TvBvIS5jUN4BSy009usRjNzjI1qRrHPYv7xVLJyjUyw="
-
 # -----------------------------------------------------------------------------
 # Get external JSON data
 # -----------------------------------------------------------------------------
