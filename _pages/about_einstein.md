@@ -1,6 +1,6 @@
 Hello, I am Divij.
 
-I'm a Mathematics enjoyer from Mumbai, India. Currently, I am a student at Ashoka University studying Mathematics and Computer Science. I'm interested in problems that involve both of these. That list is currently optimization, machine learning on graphs and machine learning theory, particularly robustness in deep learning. 
+I'm a Mathematics enjoyer from Mumbai, India. Currently, I am a student at Ashoka University studying Mathematics and Computer Science. I'm interested in problems that involve both of these. That list is currently optimization, machine learning on graphs and machine learning theory, particularly robustness in deep learning.
 
 When not reading something on one of the above, you can find me reading manga, playing blitz games on [chess.com](https://www.chess.com/member/divij2003) or playing a board game.
 
