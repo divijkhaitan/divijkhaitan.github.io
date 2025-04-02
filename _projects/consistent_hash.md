@@ -3,8 +3,8 @@ layout: page
 title: Consistent Hash
 description: Final Project for Data Structures
 img:
-importance: 1
-category: class
+importance: 7
+category: fun
 related_publications: False
 ---
 
@@ -22,7 +22,7 @@ Now, consider the case where server k goes down. The simplest solution would be 
     </div>
 </div>
 <div class="caption">
-    An illustration of a server going down when using a hash table for load balancing (<a href="highscalability.com/consistent-hashing-algorithm" target="_blank">image credits</a>)
+    An illustration of a server going down when using a hash table for load balancing (<a href="https://highscalability.com/consistent-hashing-algorithm" target="_blank">image credits</a>)
 </div>
 
 ## Solution

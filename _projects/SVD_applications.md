@@ -3,8 +3,8 @@ layout: page
 title: Applications of SVD
 description: Implementing applications of SVD
 img:
-importance: 2
-category: class
+importance: 6
+category: fun
 giscus_comments: false
 ---
 
