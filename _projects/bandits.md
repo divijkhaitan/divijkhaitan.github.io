@@ -4,7 +4,7 @@ title: Multi-Armed Bandits Bandits
 description: Final Project for Advanced Algorithms
 img:
 importance: 3
-category: fun
+category: notes
 related_publications: False
 ---
 
