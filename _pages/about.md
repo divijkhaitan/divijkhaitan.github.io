@@ -20,8 +20,8 @@ social: true # includes social icons at the bottom of the page
 
 Hello, I am Divij.
 
-I am currently fourth-year student at Ashoka University studying Mathematics and Computer Science. My research interests are in the foundations of machine learning, particularly machine learning theory and optimisation geared towards an understanding of models that are explainable, robust and generalise well.
+I am currently a Research Fellow in the PROSE team at Microsoft Research, working closely with [Ashish Tiwari](https://scholar.google.com/citations?hl=en&user=-TFCgqsAAAAJ&view_op=list_works) on the integration of AI into Microsoft Excel. I'm broadly interested in the foundations of Machine Learning, specifically in building models that are robust, explainable and that generalise well.
 
-I'm a research assistant at the [Centre for Decision, Learning and Data Sciences](https://www.ashoka.edu.in/page/centre-for-data-learning-and-decision-sciences-cdlds/), where I am working on a project on weather and climate modelling. I am also writing my undergraduate thesis on the robustness of deep neural networks, and building a library for randomised NLA algorithms in Rust.
+Prior to this, I graduated summa cum laude with a silver medal from Ashoka University, where I studied Mathematics and Computer Science. While at Ashoka, I worked with [Sandeep Juneja](https://scholar.google.com/citations?user=Tfgv6VgAAAAJ&hl=en) at the  [SafeExpress Centre for Decision, Learning and Data Sciences](https://www.ashoka.edu.in/page/centre-for-data-learning-and-decision-sciences-cdlds/) on short-to-medium term weather forecasting using Machine Learning. I also wrote a thesis under [Subhashis Banerjee](https://subhashis-banerjee.in/) that proposed a new framework for analysing the robustness of deep neural networks. 
 
-When not reading something on one of the above, you can find me reading manga, playing blitz games on [chess.com](https://www.chess.com/member/divij2003) or playing a board game.
+When not reading papers, you can find me reading manga, playing blitz on [chess.com](https://www.chess.com/member/divij2003) or enjoying a board game.

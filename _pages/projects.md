@@ -5,7 +5,7 @@ permalink: /projects/
 description: A Collection of Projects I have been involved in
 nav: true
 nav_order: 3
-display_categories: [fun, notes]
+display_categories: [implementation, exposition]
 horizontal: false
 ---
 

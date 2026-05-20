@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Consistent Hash
-description: Final Project for Data Structures
+description: 
 img:
 importance: 7
-category: fun
+category: implementation
 related_publications: False
 ---
 

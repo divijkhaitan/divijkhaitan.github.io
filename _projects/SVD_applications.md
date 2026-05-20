@@ -4,7 +4,7 @@ title: Applications of SVD
 description: Implementing applications of SVD
 img:
 importance: 6
-category: fun
+category: implementation
 giscus_comments: false
 ---
 

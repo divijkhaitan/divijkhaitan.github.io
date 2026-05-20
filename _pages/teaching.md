@@ -7,9 +7,18 @@ nav: true
 nav_order: 6
 ---
 
+### Trustworthy AI (Teaching Assistant)
+
+**CS-5440 (Ashoka University)** | _January 2025 - May 2025 (Spring 2025)_  
+Instructors: Prof. Subhashis Banerjee, Prof. Alok Thakkar
+
+Grading, office hours, administration, [lecturing](/projects/causality/)
+
+---
+
 ### Linear Algebra and Matrix Analysis (Teaching Assistant)
 
-**CS-1104 (Ashoka University)** | _August 2024 - December 2024 (Monsoon 2024)_  
+**MAT-3120 (Ashoka University)** | _August 2024 - December 2024 (Monsoon 2024)_  
 Instructor: Prof. Rajendra Bhatia
 
 Grading, teaching discussion sections, office hours, administration

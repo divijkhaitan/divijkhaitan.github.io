@@ -4,7 +4,7 @@ title: Graph Neural Networks
 description: A primer on Graph Neural Networks
 img:
 importance: 2
-category: fun
+category: exposition
 giscus_comments: false
 
 ---

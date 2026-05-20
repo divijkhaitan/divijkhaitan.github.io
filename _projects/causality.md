@@ -5,6 +5,6 @@ description: Notes on Causality, part of a lecture delivered in CS-5440 - Trustw
 img:
 importance: 5
 cv_pdf: causal_inference.pdf
-category: notes
+category: exposition
 giscus_comments: false
 ---
