@@ -35,7 +35,7 @@ A solution to this problem is consistent hashing. The easiest way to visualise t
     </div>
 </div>
 <div class="caption">
-    An illustration of a server going down when using a consistent hash for load balancing (<a href="highscalability.com/consistent-hashing-algorithm" target="_blank">image credits</a>)
+    An illustration of a server going down when using a consistent hash for load balancing (<a href="https://highscalability.com/consistent-hashing-algorithm/" target="_blank">image credits</a>)
 </div>
 
 I implemented this using a self-balancing binary search tree, with each node being a linked list storing the keys mapped to it. This allowed for efficient look-ups without a large delete cost.
