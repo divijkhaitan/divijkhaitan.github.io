@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Consistent Hash
-description: 
+description:
 img:
 importance: 7
 category: implementation

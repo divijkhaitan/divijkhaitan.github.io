@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thompson Sampling
-description: 
+description:
 img:
 importance: 3
 category: exposition
